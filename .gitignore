@@ -1,1 +1,4 @@
 *.snip
+.idea
+target
+build
